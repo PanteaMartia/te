@@ -1,0 +1,22 @@
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    border: 2px solid black;
+}
+
+h2, h3, h4, h5, h6{
+    color: rgb(75, 6, 19);
+    border: 2px solid black;
+    text-align: center;
+}
+
+* { /* selecteur universel*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style-type: square;
+    font-size: 8px;
+}
